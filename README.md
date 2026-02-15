@@ -1,4 +1,4 @@
-# 📌 Permission-Based System Manager
+# Permission-Based System Manager
 
 A Local-First Authentication & Authorization Engine built with React.
 
@@ -12,7 +12,7 @@ This project demonstrates how to manage role-based access control, protected rou
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The Permission-Based System Manager is a logic-driven application that controls:
 
@@ -29,7 +29,7 @@ Based on their role:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### 🔹 Authentication Engine
 - Login system (no backend required)
@@ -50,9 +50,9 @@ Based on their role:
 
 ---
 
-## 🧠 Core Logic Features
+##  Core Logic Features
 
-### 1️⃣ Protected Routes
+###  Protected Routes
 If a user tries to manually access a restricted URL:
 - The system intercepts
 - Redirects to /login
